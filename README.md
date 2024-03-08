@@ -1,1 +1,1 @@
-CAD files for NCSU Coaxial Turbine projects.
+CAD files for NCSU-iSSRL Coaxial Turbine projects.
